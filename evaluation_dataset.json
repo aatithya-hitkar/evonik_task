@@ -1,0 +1,40 @@
+{
+  "test_cases": [
+    {
+      "id": 1,
+      "question": "How do I make carbonara?",
+      "gold_answer": "For carbonara, cook 200g spaghetti until al dente. Dice 100g guanciale and cook until crispy. Mix 2 eggs, 1 egg yolk, and 50g grated Pecorino Romano with black pepper. Add hot pasta to the guanciale pan, then quickly mix in the egg mixture off heat. Add pasta water to create a creamy sauce. Serve with more cheese and pepper.",
+      "relevant_recipes": ["Classic Spaghetti Carbonara"]
+    },
+    {
+      "id": 2,
+      "question": "What vegetarian dinner options do you have?",
+      "gold_answer": "I have several vegetarian options: Chana Masala (chickpea curry with spices), Mediterranean Greek Salad with feta cheese, Fresh Guacamole as a side, Spanish Gazpacho cold soup, and Quinoa Salad with lemon vinaigrette.",
+      "relevant_recipes": ["Quick Chana Masala", "Mediterranean Greek Salad", "Fresh Guacamole", "Spanish Gazpacho (Cold Soup)", "Quinoa Salad with Lemon Vinaigrette"]
+    },
+    {
+      "id": 3,
+      "question": "How long should I cook quinoa?",
+      "gold_answer": "Cook quinoa by combining 1 cup rinsed quinoa with 2 cups water. Bring to a boil, then reduce heat to low, cover, and simmer for 15 minutes until water is absorbed. Let it sit covered for 5 more minutes, then fluff with a fork.",
+      "relevant_recipes": ["Quinoa Salad with Lemon Vinaigrette"]
+    },
+    {
+      "id": 4,
+      "question": "What can I substitute for eggs in baking?",
+      "gold_answer": "I don't have information about egg substitutes for baking in my recipe collection.",
+      "relevant_recipes": []
+    },
+    {
+      "id": 5,
+      "question": "How do I make pancakes fluffy?",
+      "gold_answer": "For fluffy pancakes, don't overmix the batter - it should be lumpy. Mix wet and dry ingredients separately, then combine just until incorporated. Use baking powder (3.5 tsp for 1.5 cups flour) and cook on medium-low heat until bubbles form on surface before flipping.",
+      "relevant_recipes": ["Fluffy American Pancakes"]
+    },
+    {
+      "id": 6,
+      "question": "What spices go in chicken tacos?",
+      "gold_answer": "For chicken tacos, use 1 tbsp chili powder, 1 tsp cumin, 1/2 tsp paprika, 1/2 tsp onion powder, and 1/4 tsp garlic powder. Mix these spices and coat diced chicken breast before cooking in olive oil.",
+      "relevant_recipes": ["Simple Chicken Tacos"]
+    }
+  ]
+}

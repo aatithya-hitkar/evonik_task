@@ -1,0 +1,464 @@
+{
+  "recipes": [
+    {
+      "title": "Classic Spaghetti Carbonara",
+      "cuisine_type": "Italian / Dinner / Pasta",
+      "serves": "2",
+      "ingredients": [
+        "200g spaghetti",
+        "100g guanciale (or pancetta as a substitute)",
+        "2 large eggs",
+        "1 large egg yolk",
+        "50g Pecorino Romano cheese, freshly grated (plus extra for serving)",
+        "Coarsely ground black pepper"
+      ],
+      "preparation": [
+        "Dice the guanciale or pancetta into small cubes.",
+        "Grate the Pecorino Romano cheese.",
+        "In a medium bowl, whisk together the 2 whole eggs, 1 egg yolk, and the grated cheese. Add a generous amount of black pepper. Mix until it forms a thick, creamy paste."
+      ],
+      "instructions": [
+        "Bring a large pot of salted water to a boil. Cook the spaghetti according to package directions until 'al dente'.",
+        "While the pasta is cooking, heat a large pan over medium heat. Add the diced guanciale and cook slowly until it is crispy and the fat has rendered.",
+        "Turn off the heat for the guanciale pan so it cools slightly (this is critical to avoid scrambling the eggs).",
+        "Just before the pasta is done, reserve 1 cup of the starchy pasta water.",
+        "Drain the pasta (do not rinse) and add it directly to the pan with the guanciale. Toss to combine.",
+        "Working quickly, pour the egg and cheese mixture over the pasta. Stir vigorously. The residual heat from the pasta and pan will cook the eggs and melt the cheese.",
+        "Add a tablespoon or two of the reserved pasta water, one at a time, to create a creamy sauce and emulsify the fat. The sauce should be creamy, not scrambled."
+      ],
+      "garnish_serving": "Serve immediately in warm bowls. Garnish with another sprinkle of grated Pecorino Romano and a few more cracks of fresh black pepper."
+    },
+    {
+      "title": "Simple Chicken Tacos",
+      "cuisine_type": "Mexican / Dinner / Poultry",
+      "serves": "4 (makes 8-10 tacos)",
+      "ingredients": [
+        "500g (1 lb) boneless, skinless chicken breast",
+        "1 tbsp chili powder",
+        "1 tsp cumin",
+        "1/2 tsp paprika",
+        "1/2 tsp onion powder",
+        "1/4 tsp garlic powder",
+        "1 tbsp olive oil",
+        "8-10 small corn or flour tortillas",
+        "Toppings: Shredded lettuce, diced tomatoes, shredded cheddar cheese, sour cream, salsa"
+      ],
+      "preparation": [
+        "Dice the chicken breast into small, bite-sized pieces.",
+        "In a small bowl, combine all the spices (chili powder, cumin, paprika, onion powder, garlic powder), plus a little salt and pepper.",
+        "Chop all the toppings (lettuce, tomatoes) and place them in small serving bowls."
+      ],
+      "instructions": [
+        "Heat the olive oil in a large skillet over medium-high heat.",
+        "Add the diced chicken to the hot pan.",
+        "Sprinkle the spice mixture over the chicken and stir to coat.",
+        "Cook, stirring occasionally, for 6-8 minutes, or until the chicken is cooked through and lightly browned.",
+        "While the chicken is cooking, warm the tortillas by wrapping them in a damp paper towel and microwaving for 30 seconds, or by warming them one by one in a dry pan."
+      ],
+      "garnish_serving": "Serve the cooked chicken and warm tortillas separately, alongside the bowls of toppings. Allow everyone to build their own tacos."
+    },
+    {
+      "title": "Fluffy American Pancakes",
+      "cuisine_type": "American / Breakfast",
+      "serves": "3 (makes about 8-10 pancakes)",
+      "ingredients": [
+        "1 1/2 cups all-purpose flour",
+        "3 1/2 tsp baking powder",
+        "1 tbsp white sugar",
+        "1/4 tsp salt",
+        "1 1/4 cups milk",
+        "1 large egg",
+        "3 tbsp butter, melted",
+        "Butter or oil for the pan"
+      ],
+      "preparation": [
+        "Melt the 3 tbsp of butter and set it aside to cool slightly.",
+        "In a large bowl, whisk together the dry ingredients: flour, baking powder, sugar, and salt."
+      ],
+      "instructions": [
+        "In a separate bowl, whisk the milk and egg together. Pour in the slightly cooled melted butter and whisk to combine.",
+        "Pour the wet ingredients into the dry ingredient bowl. Whisk *just until* combined. The batter should be lumpy; do not overmix.",
+        "Heat a griddle or large frying pan over medium-low heat. Add a small amount of butter or oil.",
+        "Pour or scoop the batter onto the griddle, using approximately 1/4 cup for each pancake.",
+        "Cook for 2-3 minutes, until bubbles form on the surface and the edges look dry.",
+        "Flip the pancake and cook for another 1-2 minutes on the other side, until golden brown.",
+        "Repeat with the remaining batter."
+      ],
+      "garnish_serving": "Serve hot, stacked on a plate. Garnish with a pat of butter and drizzle with maple syrup. Sliced bananas or berries are also a great addition."
+    },
+    {
+      "title": "Quick Chana Masala",
+      "cuisine_type": "Indian / Dinner / Vegetarian / Vegan",
+      "serves": "4",
+      "ingredients": [
+        "2 (400g / 15oz) cans of chickpeas, rinsed and drained",
+        "1 large onion, finely chopped",
+        "2 cloves garlic, minced",
+        "1-inch piece of ginger, freshly grated",
+        "1 (400g / 15oz) can of crushed tomatoes",
+        "2 tbsp vegetable oil",
+        "1 tsp cumin seeds",
+        "1 tsp ground coriander",
+        "1 tsp ground turmeric",
+        "1/2 tsp cayenne pepper (adjust to heat preference)",
+        "1 tsp garam masala",
+        "1/2 cup water or vegetable broth",
+        "Salt to taste",
+        "1 lemon, juiced"
+      ],
+      "preparation": [
+        "Rinse and drain the canned chickpeas.",
+        "Finely chop the onion.",
+        "Mince the garlic and grate the ginger."
+      ],
+      "instructions": [
+        "Heat the vegetable oil in a large pot or pan over medium heat.",
+        "Add the cumin seeds and cook for 30 seconds until they sizzle.",
+        "Add the chopped onion and sauté for 5-7 minutes, until softened and translucent.",
+        "Add the minced garlic and grated ginger. Cook for 1 more minute until fragrant.",
+        "Stir in the ground coriander, turmeric, and cayenne pepper. Cook for 30 seconds.",
+        "Add the crushed tomatoes and salt. Cook for 5 minutes, stirring occasionally, until the sauce thickens.",
+        "Add the drained chickpeas and the 1/2 cup of water (or broth). Stir to combine.",
+        "Bring to a simmer, then reduce the heat, cover, and let it cook for 15 minutes for the flavors to meld.",
+        "Stir in the garam masala and the lemon juice."
+      ],
+      "garnish_serving": "Garnish with fresh chopped cilantro (coriander leaves). Serve hot with basmati rice or naan bread."
+    },
+    {
+      "title": "Classic French Omelette",
+      "cuisine_type": "French / Breakfast / Lunch",
+      "serves": "1",
+      "ingredients": [
+        "3 large eggs",
+        "1 tbsp unsalted butter",
+        "1 tbsp water (or milk)",
+        "Salt and freshly ground black pepper",
+        "Optional: 1 tbsp finely chopped chives"
+      ],
+      "preparation": [
+        "Crack the 3 eggs into a bowl.",
+        "Add the 1 tbsp of water (this helps create steam for a fluffier omelette), salt, and pepper.",
+        "Whisk the eggs vigorously with a fork or whisk for 30 seconds, until they are pale yellow and slightly frothy. Do not overbeat.",
+        "If using, stir in the chopped chives."
+      ],
+      "instructions": [
+        "Place an 8-inch non-stick skillet over medium-high heat.",
+        "Add the 1 tbsp of butter and swirl the pan until the butter is melted and foaming.",
+        "Pour the egg mixture into the hot pan.",
+        "Let the eggs set for 5-10 seconds at the edges.",
+        "Using a rubber spatula, push the cooked edges toward the center and tilt the pan to allow the uncooked egg to flow into the empty space.",
+        "Continue this process (pushing and tilting) for 30-60 seconds.",
+        "When the eggs are mostly set but still slightly soft and 'creamy' on top, stop stirring.",
+        "Tilt the pan and use the spatula to gently fold one-third of the omelette over the center.",
+        "Slide the omelette towards the edge of the pan, and use the pan's lip to fold the other third over, creating a 'cigar' or rolled shape."
+      ],
+      "garnish_serving": "Gently slide the omelette onto a warm plate, seam-side down. Garnish with a few more chopped chives and a crack of pepper. Serve immediately."
+    },
+    {
+      "title": "Easy Thai Green Curry with Chicken",
+      "cuisine_type": "Thai / Dinner / Poultry",
+      "serves": "4",
+      "ingredients": [
+        "400g (14oz) boneless, skinless chicken breast, cut into 1-inch pieces",
+        "1 (400ml / 13.5oz) can full-fat coconut milk",
+        "2-3 tbsp green curry paste (store-bought or homemade)",
+        "1 tbsp vegetable oil",
+        "1 red bell pepper, sliced",
+        "1 cup (100g) snow peas or green beans",
+        "1 tbsp fish sauce",
+        "1 tsp sugar",
+        "1/2 cup fresh Thai basil leaves (or regular basil)"
+      ],
+      "preparation": [
+        "Cut the chicken breast into bite-sized pieces.",
+        "Slice the red bell pepper.",
+        "Trim the snow peas or green beans.",
+        "Separate the basil leaves from the stems."
+      ],
+      "instructions": [
+        "Open the can of coconut milk. Scoop out the thick, solid cream from the top (about 1/2 cup) and set the remaining thin milk aside.",
+        "Heat the oil in a large wok or pot over medium-high heat. Add the green curry paste and the thick coconut cream.",
+        "Stir-fry for 2-3 minutes until the oil separates and the curry is very fragrant.",
+        "Add the chicken pieces and cook, stirring, until the chicken is seared on all sides (about 3-4 minutes).",
+        "Pour in the remaining thin coconut milk, the fish sauce, and the sugar. Bring to a simmer.",
+        "Reduce heat and let it simmer gently for 5-7 minutes, until the chicken is cooked through.",
+        "Add the sliced red bell pepper and snow peas. Cook for another 2-3 minutes, until the vegetables are tender-crisp.",
+        "Turn off the heat and stir in the fresh basil leaves until they are just wilted."
+      ],
+      "garnish_serving": "Serve hot in bowls over steamed jasmine rice. Garnish with a few extra basil leaves."
+    },
+    {
+      "title": "Mediterranean Greek Salad",
+      "cuisine_type": "Greek / Mediterranean / Salad / Side",
+      "serves": "4 (as a side) or 2 (as a main)",
+      "ingredients": [
+        "1 large cucumber",
+        "1 red bell pepper",
+        "1 green bell pepper",
+        "1 red onion, thinly sliced",
+        "1 cup (150g) Kalamata olives, pitted",
+        "1 cup (200g) cherry tomatoes, halved",
+        "200g (7oz) block of Feta cheese",
+        "**Dressing:**",
+        "1/4 cup extra virgin olive oil",
+        "2 tbsp red wine vinegar",
+        "1 tsp dried oregano",
+        "Salt and black pepper to taste"
+      ],
+      "preparation": [
+        "Chop the cucumber, red pepper, and green pepper into large, 1-inch chunks.",
+        "Halve the cherry tomatoes.",
+        "Thinly slice the red onion.",
+        "In a small jar or bowl, combine all dressing ingredients (olive oil, vinegar, oregano, salt, pepper) and shake or whisk well."
+      ],
+      "instructions": [
+        "This is a no-cook recipe.",
+        "In a large salad bowl, combine the chopped cucumber, peppers, red onion, cherry tomatoes, and Kalamata olives.",
+        "Pour the prepared dressing over the vegetables and toss gently to combine.",
+        "Place the entire block of Feta cheese on top of the salad (traditional) or crumble it over, as you prefer."
+      ],
+      "garnish_serving": "Drizzle with a little more olive oil and sprinkle with a pinch of extra oregano. Serve immediately."
+    },
+    {
+      "title": "Simple Teriyaki Salmon",
+      "cuisine_type": "Japanese / Dinner / Seafood",
+      "serves": "2",
+      "ingredients": [
+        "2 (180g / 6oz) salmon fillets, skin-on or skinless",
+        "**Teriyaki Sauce:**",
+        "1/4 cup soy sauce (or tamari for gluten-free)",
+        "2 tbsp mirin (sweet Japanese rice wine)",
+        "1 tbsp sake (or water)",
+        "1 tbsp brown sugar",
+        "1 tsp grated fresh ginger",
+        "1 tbsp vegetable oil (for pan)"
+      ],
+      "preparation": [
+        "Pat the salmon fillets dry with a paper towel. This helps them get a good sear.",
+        "Grate the fresh ginger.",
+        "In a small bowl, whisk together all the Teriyaki Sauce ingredients (soy sauce, mirin, sake, brown sugar, ginger) until the sugar is dissolved."
+      ],
+      "instructions": [
+        "Heat the vegetable oil in a non-stick skillet over medium-high heat.",
+        "If using skin-on, place the salmon fillets skin-side down in the hot pan. Cook for 4-5 minutes, until the skin is crispy. If skinless, sear for 3-4 minutes on the first side.",
+        "Flip the salmon fillets over.",
+        "Turn the heat down to medium. Pour the prepared teriyaki sauce into the pan (around the fish, not directly on the crispy skin if you want to keep it crisp).",
+        "Let the sauce bubble and thicken, which should only take 2-3 minutes.",
+        "Spoon the thickening sauce over the salmon fillets as they finish cooking. The salmon is done when it flakes easily with a fork."
+      ],
+      "garnish_serving": "Serve the salmon fillets on a bed of steamed rice. Drizzle any remaining teriyaki sauce from the pan over the top. Garnish with sliced green onions or toasted sesame seeds."
+    },
+    {
+      "title": "Classic American Cheeseburger",
+      "cuisine_type": "American / Lunch / Dinner",
+      "serves": "4",
+      "ingredients": [
+        "600g (1.3 lbs) ground beef (80/20 lean to fat ratio is best)",
+        "4 slices of cheddar or American cheese",
+        "4 hamburger buns",
+        "Salt and freshly ground black pepper",
+        "Toppings: Lettuce leaves, tomato slices, onion slices, pickles"
+      ],
+      "preparation": [
+        "Gently divide the ground beef into 4 equal portions (150g each).",
+        "Form each portion into a loose ball, then flatten into a patty that is slightly wider than the hamburger bun (they will shrink when cooking).",
+        "Press a small dimple into the center of each patty with your thumb. This prevents them from puffing up in the middle.",
+        "Season both sides of the patties generously with salt and pepper.",
+        "Wash and slice your toppings (lettuce, tomato, onion)."
+      ],
+      "instructions": [
+        "Heat a large cast-iron skillet or outdoor grill to medium-high heat.",
+        "Place the patties on the hot surface. Cook for 3-4 minutes on the first side, until a brown crust forms.",
+        "Flip the patties. Cook for another 3 minutes for medium.",
+        "In the last minute of cooking, place a slice of cheese on top of each patty and let it melt.",
+        "Optional: Toast the hamburger buns lightly on the skillet or grill."
+      ],
+      "garnish_serving": "Assemble the burgers. Place the cooked patty on the bottom bun. Layer with your desired toppings (lettuce, tomato, onion, pickles) and add condiments like ketchup and mustard. Place the top bun on. Serve immediately with french fries."
+    },
+    {
+      "title": "Bruschetta with Tomato and Basil",
+      "cuisine_type": "Italian / Appetizer",
+      "serves": "4 (makes 8 pieces)",
+      "ingredients": [
+        "1 baguette or crusty loaf of bread",
+        "4 ripe Roma tomatoes",
+        "1/2 cup fresh basil leaves",
+        "2 cloves garlic",
+        "3 tbsp extra virgin olive oil",
+        "1 tbsp balsamic vinegar (optional, but recommended)",
+        "Salt and black pepper"
+      ],
+      "preparation": [
+        "Dice the tomatoes and place them in a small bowl.",
+        "Finely chop (chiffonade) the fresh basil leaves and add them to the tomatoes.",
+        "Mince 1 clove of garlic and add it to the tomato-basil mixture.",
+        "Add 2 tbsp of the olive oil, the balsamic vinegar, salt, and pepper to the tomato mixture. Stir gently and let it marinate for at least 15 minutes.",
+        "Slice the baguette on a diagonal into 8 thick slices.",
+        "Peel the remaining 1 clove of garlic."
+      ],
+      "instructions": [
+        "Set your oven broiler to high (or use a toaster oven).",
+        "Arrange the baguette slices on a baking sheet. Drizzle with the remaining 1 tbsp of olive oil.",
+        "Broil for 1-2 minutes, watching closely, until the bread is golden and toasted.",
+        "Remove the toast from the oven. Immediately rub the surface of each piece with the whole, peeled garlic clove. The heat will melt the garlic and impart a strong flavor."
+      ],
+      "garnish_serving": "Top each piece of garlic toast with a generous spoonful of the tomato-basil mixture. Serve immediately."
+    },
+    {
+      "title": "Fresh Guacamole",
+      "cuisine_type": "Mexican / Appetizer / Side",
+      "serves": "4",
+      "ingredients": [
+        "3 ripe avocados",
+        "1/2 red onion, finely chopped",
+        "1 jalapeño, minced (seeds removed for less heat)",
+        "1/2 cup fresh cilantro (coriander leaves), chopped",
+        "Juice of 1-2 limes",
+        "1/2 tsp salt (or to taste)",
+        "Optional: 1/2 cup diced Roma tomato"
+      ],
+      "preparation": [
+        "Finely chop the red onion. Mince the jalapeño. Chop the cilantro.",
+        "If using, dice the tomato.",
+        "Slice the avocados in half, remove the pits, and scoop the flesh into a medium bowl."
+      ],
+      "instructions": [
+        "This is a no-cook recipe.",
+        "Using a fork, mash the avocado in the bowl. Leave it slightly chunky for better texture.",
+        "Add the chopped onion, jalapeño, cilantro, and the juice of 1 lime.",
+        "Stir in the salt. If using, fold in the diced tomato.",
+        "Taste the guacamole. Add more lime juice or salt as needed. The lime juice is key for both flavor and preventing the avocado from browning."
+      ],
+      "garnish_serving": "Serve immediately in a bowl with tortilla chips for dipping. If you need to make it ahead, press a piece of plastic wrap directly onto the surface of the guacamole to prevent air from touching it, and refrigerate."
+    },
+    {
+      "title": "Classic Chocolate Chip Cookies",
+      "cuisine_type": "American / Dessert / Baking",
+      "serves": "Makes 2-3 dozen cookies",
+      "ingredients": [
+        "2 1/4 cups all-purpose flour",
+        "1 tsp baking soda",
+        "1 tsp salt",
+        "1 cup (2 sticks) unsalted butter, softened",
+        "3/4 cup granulated white sugar",
+        "3/4 cup packed brown sugar",
+        "1 tsp vanilla extract",
+        "2 large eggs",
+        "2 cups (12-oz bag) semi-sweet chocolate chips"
+      ],
+      "preparation": [
+        "Preheat your oven to 375°F (190°C).",
+        "Line two large baking sheets with parchment paper.",
+        "In a small bowl, whisk together the dry ingredients: flour, baking soda, and salt.",
+        "Ensure your butter is softened to room temperature (not melted)."
+      ],
+      "instructions": [
+        "In a large bowl or the bowl of a stand mixer, beat the softened butter, granulated sugar, and brown sugar together on medium speed until the mixture is light and fluffy (about 3-4 minutes).",
+        "Add the vanilla extract and then add the eggs, one at a time, beating well after each addition.",
+        "Gradually add the dry flour mixture to the wet ingredients on low speed, mixing just until the flour is combined. Do not overmix.",
+        "Gently fold in the chocolate chips with a spatula.",
+        "Drop rounded tablespoons of dough onto the parchment-lined baking sheets, about 2 inches apart.",
+        "Bake for 9-11 minutes, or until the edges are golden brown and the centers are still slightly soft.",
+        "Let the cookies cool on the baking sheets for 5 minutes before transferring them to a wire rack to cool completely."
+      ],
+      "garnish_serving": "Serve warm or at room temperature. A classic serving is with a cold glass of milk."
+    },
+    {
+      "title": "Simple Stir-Fried Rice",
+      "cuisine_type": "Chinese / Side / Main",
+      "serves": "3-4",
+      "ingredients": [
+        "3 cups cooked and **chilled** white rice (day-old rice is best)",
+        "2 tbsp vegetable oil",
+        "1 small onion, diced",
+        "1 cup frozen peas and carrots",
+        "2 large eggs",
+        "3 tbsp soy sauce",
+        "1 tsp sesame oil",
+        "Optional: 100g diced ham or cooked shrimp"
+      ],
+      "preparation": [
+        "This recipe *must* be made with cold, pre-cooked rice. Freshly cooked rice will be too mushy.",
+        "Dice the small onion.",
+        "In a small bowl, lightly beat the 2 eggs with a fork."
+      ],
+      "instructions": [
+        "Heat a large wok or skillet over high heat until very hot.",
+        "Add the vegetable oil and swirl to coat.",
+        "Add the diced onion and stir-fry for 1 minute.",
+        "Add the frozen peas and carrots and stir-fry for another 1-2 minutes.",
+        "Push the vegetables to one side of the wok. Pour the beaten eggs onto the empty side. Scramble the eggs until just cooked, then mix them in with the vegetables.",
+        "Add the cold rice to the wok. Use your spatula to break up any large clumps.",
+        "Stir-fry for 3-5 minutes, tossing constantly, until the rice is heated through.",
+        "Add the soy sauce and sesame oil. Stir to combine, ensuring all the rice is lightly colored.",
+        "If using ham or shrimp, add it in the last minute to heat through."
+      ],
+      "garnish_serving": "Serve hot as a side dish or as a main meal. Garnish with sliced green onions."
+    },
+    {
+      "title": "Spanish Gazpacho (Cold Soup)",
+      "cuisine_type": "Spanish / Soup / Appetizer / Vegan",
+      "serves": "4",
+      "ingredients": [
+        "1kg (2.2 lbs) very ripe Roma tomatoes",
+        "1 cucumber, peeled and roughly chopped",
+        "1 green bell pepper, roughly chopped",
+        "1/2 red onion, roughly chopped",
+        "2 cloves garlic",
+        "1/4 cup extra virgin olive oil",
+        "2 tbsp red wine vinegar",
+        "1 tsp salt",
+        "1/2 tsp black pepper"
+      ],
+      "preparation": [
+        "Roughly chop the tomatoes, cucumber (peeled), green pepper, and red onion.",
+        "Peel the garlic cloves.",
+        "No pre-cooking is required for this recipe."
+      ],
+      "instructions": [
+        "This is a no-cook soup.",
+        "Place all ingredients (tomatoes, cucumber, pepper, onion, garlic, olive oil, vinegar, salt, pepper) into a high-powered blender.",
+        "Blend on high speed for 1-2 minutes, or until the soup is completely smooth.",
+        "Taste the soup and adjust seasoning if necessary (more salt, vinegar, or oil).",
+        "Pour the soup into a large container and cover.",
+        "**Crucial Step:** Chill the soup in the refrigerator for at least 2 hours, or ideally 4 hours, to allow the flavors to meld and the soup to get very cold."
+      ],
+      "garnish_serving": "Serve cold in bowls. A traditional garnish is a 'topping bar' of finely diced cucumber, green pepper, and red onion, along with homemade croutons. A drizzle of high-quality olive oil on top is also recommended."
+    },
+    {
+      "title": "Quinoa Salad with Lemon Vinaigrette",
+      "cuisine_type": "Global / Health / Salad / Lunch",
+      "serves": "4",
+      "ingredients": [
+        "1 cup quinoa, uncooked",
+        "2 cups water (or vegetable broth)",
+        "1 cucumber, diced",
+        "1 red bell pepper, diced",
+        "1/2 red onion, finely diced",
+        "1 (400g / 15oz) can of chickpeas, rinsed and drained",
+        "1/2 cup chopped fresh parsley",
+        "**Dressing:**",
+        "1/4 cup extra virgin olive oil",
+        "1/4 cup fresh lemon juice",
+        "1 tbsp honey (or maple syrup)",
+        "Salt and black pepper to taste"
+      ],
+      "preparation": [
+        "Thoroughly rinse the 1 cup of uncooked quinoa in a fine-mesh sieve.",
+        "Dice the cucumber, red pepper, and red onion.",
+        "Rinse and drain the can of chickpeas.",
+        "Chop the parsley.",
+        "In a small jar, combine all dressing ingredients (olive oil, lemon juice, honey, salt, pepper) and shake well."
+      ],
+      "instructions": [
+        "Cook the quinoa: In a medium pot, combine the 1 cup of rinsed quinoa and 2 cups of water. Bring to a boil.",
+        "Once boiling, reduce the heat to low, cover the pot, and simmer for 15 minutes, or until all the water is absorbed.",
+        "Remove the pot from the heat and let it sit, covered, for 5 more minutes.",
+        "Fluff the cooked quinoa with a fork and spread it on a baking sheet to cool down quickly.",
+        "In a large salad bowl, combine the cooled quinoa, diced cucumber, red pepper, red onion, chickpeas, and chopped parsley.",
+        "Pour the lemon vinaigrette over the salad and toss to combine."
+      ],
+      "garnish_serving": "This salad can be served immediately or chilled. It's an excellent dish for meal prep as the flavors improve over time. Garnish with crumbled feta cheese or sliced almonds before serving, if desired."
+    }
+  ]
+}

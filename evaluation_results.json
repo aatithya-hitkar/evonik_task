@@ -1,0 +1,86 @@
+{
+  "metrics": {
+    "hit_at_3": 0.8333333333333334,
+    "recall_at_3": 0.7333333333333334
+  },
+  "results": [
+    {
+      "id": 1,
+      "question": "How do I make carbonara?",
+      "retrieved_recipes": [
+        "Classic Spaghetti Carbonara",
+        "Simple Stir-Fried Rice",
+        "Classic French Omelette"
+      ],
+      "response": "To make Classic Spaghetti Carbonara, follow these steps based on Recipe 1:\n\n1. **Cook the Spaghetti**: Bring a large pot of salted water to a boil and cook 200g of spaghetti according to package directions until 'al dente'.\n\n2. **Prepare the Guanciale**: While the pasta is cooking, heat a large pan over medium heat. Add 100g of diced guanciale (or pancetta as a substitute) and cook slowly until it is crispy and the fat has rendered.\n\n3. **Cool the Pan**: Turn off the heat for the guanciale pan so it cools slightly to avoid scrambling the eggs.\n\n4. **Reserve Pasta Water**: Just before the pasta is done, reserve 1 cup of the starchy pasta water.\n\n5. **Combine Pasta and Guanciale**: Drain the pasta (do not rinse) and add it directly to the pan with the guanciale. Toss to combine.\n\n6. **Add Egg and Cheese Mixture**: In a separate bowl, whisk together 2 large eggs and 1 large egg yolk with 50g of freshly grated Pecorino Romano cheese. Working quickly, pour this mixture over the pasta and stir vigorously. The residual heat will cook the eggs and melt the cheese.\n\n7. **Create the Sauce**: If needed, add a tablespoon or two of the reserved pasta water, one at a time, to create a creamy sauce and emulsify the fat. The goal is to have a creamy sauce, not scrambled eggs.\n\n8. **Serve**: Serve immediately in warm bowls, garnished with extra grated Pecorino Romano cheese and coarsely ground black pepper.\n\nEnjoy your delicious carbonara! (Recipe 1)",
+      "hit_at_3": 1.0,
+      "recall_at_3": 1.0,
+      "latency": 11.703198909759521
+    },
+    {
+      "id": 2,
+      "question": "What vegetarian dinner options do you have?",
+      "retrieved_recipes": [
+        "Quick Chana Masala",
+        "Quinoa Salad with Lemon Vinaigrette",
+        "Easy Thai Green Curry with Chicken"
+      ],
+      "response": "Based on the recipes in my collection, you have two vegetarian dinner options:\n\n1. **Quick Chana Masala**: This is a flavorful Indian dish made with chickpeas, onions, garlic, ginger, crushed tomatoes, and a variety of spices. It's served hot and can be paired with basmati rice or naan bread (Recipe 1).\n\n2. **Easy Thai Green Curry with Chicken**: While this recipe primarily features chicken, you could easily adapt it to be vegetarian by substituting the chicken with tofu or additional vegetables, while keeping the coconut milk and curry paste for flavor (Recipe 3). \n\nIf you want strictly vegetarian options, the Quick Chana Masala is the best choice.",
+      "hit_at_3": 1.0,
+      "recall_at_3": 0.4,
+      "latency": 5.889412879943848
+    },
+    {
+      "id": 3,
+      "question": "How long should I cook quinoa?",
+      "retrieved_recipes": [
+        "Quinoa Salad with Lemon Vinaigrette",
+        "Quick Chana Masala",
+        "Simple Stir-Fried Rice"
+      ],
+      "response": "You should cook quinoa for 15 minutes, or until all the water is absorbed. After that, remove the pot from the heat and let it sit, covered, for an additional 5 minutes. This information is from Recipe 1: Quinoa Salad with Lemon Vinaigrette.",
+      "hit_at_3": 1.0,
+      "recall_at_3": 1.0,
+      "latency": 5.751662731170654
+    },
+    {
+      "id": 4,
+      "question": "What can I substitute for eggs in baking?",
+      "retrieved_recipes": [
+        "Classic Chocolate Chip Cookies",
+        "Fluffy American Pancakes",
+        "Classic French Omelette"
+      ],
+      "response": "I don't have information about that in my recipe collection.",
+      "hit_at_3": 0.0,
+      "recall_at_3": 0.0,
+      "latency": 1.6153790950775146
+    },
+    {
+      "id": 5,
+      "question": "How do I make pancakes fluffy?",
+      "retrieved_recipes": [
+        "Fluffy American Pancakes",
+        "Classic French Omelette",
+        "Classic Chocolate Chip Cookies"
+      ],
+      "response": "To make pancakes fluffy, it's important to follow these steps from the Fluffy American Pancakes recipe:\n\n1. **Do Not Overmix**: When combining the wet and dry ingredients, whisk just until combined. The batter should be lumpy, which helps to create a fluffy texture. Overmixing can lead to dense pancakes.\n\n2. **Use Baking Powder**: This recipe includes 3 1/2 teaspoons of baking powder, which helps the pancakes rise and become fluffy.\n\n3. **Cook at the Right Temperature**: Heat your griddle or frying pan over medium-low heat. Cooking at the right temperature allows the pancakes to rise properly without burning.\n\n4. **Watch for Bubbles**: Cook until bubbles form on the surface and the edges look dry before flipping. This indicates that the pancakes are set and ready to rise further when flipped.\n\nBy following these tips, you can achieve light and fluffy pancakes. This information is based on the Fluffy American Pancakes recipe (Recipe 1).",
+      "hit_at_3": 1.0,
+      "recall_at_3": 1.0,
+      "latency": 7.648524045944214
+    },
+    {
+      "id": 6,
+      "question": "What spices go in chicken tacos?",
+      "retrieved_recipes": [
+        "Simple Chicken Tacos",
+        "Easy Thai Green Curry with Chicken",
+        "Quick Chana Masala"
+      ],
+      "response": "The spices that go into the chicken tacos are chili powder, cumin, paprika, onion powder, and garlic powder. This combination is used to season the chicken in the Simple Chicken Tacos recipe (Recipe 1).",
+      "hit_at_3": 1.0,
+      "recall_at_3": 1.0,
+      "latency": 2.214574098587036
+    }
+  ]
+}
