@@ -446,9 +446,11 @@ Peer review process for all changes, automated testing pipeline, staging environ
 
 | When | Tool | Model & Version | Key Params | System Prompt | Exact Prompt Used | Why It Helped | Tool/API Calls |
 |------|------|-----------------|------------|---------------|-------------------|---------------|----------------|
-| [Task/Stage] | [ChatGPT/Claude/Copilot] | [Model version] | [temp, top_p, etc.] | [Yes/No, brief description] | [The actual prompt you sent] | [Specific benefit] | [None/Which tools] |
-| [Task/Stage] | [Tool name] | [Model version] | [Parameters] | [System prompt used] | [The actual prompt you sent] | [Specific benefit] | [None/Which tools] |
-| [Task/Stage] | [Tool name] | [Model version] | [Parameters] | [System prompt used] | [The actual prompt you sent] | [Specific benefit] | [None/Which tools] |
+| Task 1 Data Generation | ChatGPT | GPT-5 | Defaults to ChatGPT UI | No | Generate 15 diverse recipe data in JSON format with fields: title, cuisine_type, serves, ingredients, instructions, garnish_serving | To generate synthetic recipe data quickly for RAG system testing | None |
+| Task 2 Data Generation | ChatGPT | GPT-5 | Defaults to ChatGPT UI | No | create a dataset of 20 "Multilingual Customer Support Tickets (Tobias Bück)" in csv format | To generate the data fast and easy to use | None |
+| Vector Store Implementation | Claude | Claude-Sonnet-4 | Default | No | Create a file for the ingestion into vector store FAISS using the API key value in the .env. Ingest each recipe as a chunk into vector database for simplicity. Ask followup questions if you have any ambiguity for the said task rather than assuming anything | To create the vector store ingestion script with proper FAISS integration | None |
+| RAG Implementation | Claude | Claude-Sonnet-4 | Default | No | Create RAG implementation using the vector store for recipe search and retrieval with OpenAI embeddings and chat completion. Ask followup questions if you have any ambiguity for the said task rather than assuming anything | To implement the core RAG functionality for recipe question answering | None |
+| Tool RAG Implementation | Claude | Claude-Sonnet-4 | Default | No | Create tool-calling RAG implementation using OpenAI function calling feature for recipe search. Ask followup questions if you have any ambiguity for the said task rather than assuming anything. | To implement the advanced tool-calling RAG approach for better conversational experience | None |
 
 **Example Responses (if using LLM-as-judge):**
 ```
@@ -476,29 +478,36 @@ This implementation demonstrates privacy-aware design suitable for handling real
 
 ---
 
-## Repository & Reproducibility (Optional)
+## Repository & Reproducibility
 
-**GitHub Repository:** [Link to your repo if created]
+**GitHub Repository:** https://github.com/aatithya-hitkar/evonik_task
 
 **Repository Structure:**
 ```
 ├── README.md                 # Setup and usage instructions
-├── data/                     # Recipe text files (6-12 files)
-├── src/
-│   ├── rag_system.py        # RAG implementation
-│   ├── tagger.py            # Document tagger
-│   └── evaluate.py          # Evaluation script
-├── prompts/                  # Saved prompts
-├── results/                  # Evaluation results
-└── requirements.txt          # Dependencies
+├── rag_query.py             # Simple RAG implementation
+├── tool_rag_query.py        # Tool-calling RAG implementation
+├── vector_store.py          # Vector search functionality
+├── evaluation_script.py     # Performance evaluation script
+├── evaluation_dataset.json  # Test cases for evaluation
+├── evaluation_results.md    # Detailed evaluation results
+├── recipe_data.json         # Recipe database (15 recipes)
+├── recipe_embeddings.faiss  # Pre-built search index
+├── recipe_metadata.pkl      # Recipe metadata for search
+├── requirements.txt         # Python dependencies
+├── .env                     # OpenAI API key configuration
+├── prompts.md              # System prompts documentation
+├── design_documentation.md  # Technical documentation
+├── operations.md           # Operations and logging details
+└── task3_llmops_runbook.md # Production deployment guide
 ```
 
 **One-Command Reproduction:**
 ```bash
-[Your command to run evaluations, e.g., python evaluate.py]
+pip install -r requirements.txt && python evaluation_script.py
 ```
 
-**Setup Instructions:** [Brief setup steps if repo provided]
+**Setup Instructions:** Install dependencies as per repository requirements.txt, configure OpenAI API key in .env file, then run the evaluation script. See README.md for detailed setup and usage instructions.
 
 ---
 
