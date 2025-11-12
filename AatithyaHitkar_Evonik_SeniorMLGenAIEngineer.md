@@ -452,16 +452,6 @@ Peer review process for all changes, automated testing pipeline, staging environ
 | RAG Implementation | Claude | Claude-Sonnet-4 | Default | No | Create RAG implementation using the vector store for recipe search and retrieval with OpenAI embeddings and chat completion. Ask followup questions if you have any ambiguity for the said task rather than assuming anything | To implement the core RAG functionality for recipe question answering | None |
 | Tool RAG Implementation | Claude | Claude-Sonnet-4 | Default | No | Create tool-calling RAG implementation using OpenAI function calling feature for recipe search. Ask followup questions if you have any ambiguity for the said task rather than assuming anything. | To implement the advanced tool-calling RAG approach for better conversational experience | None |
 
-**Example Responses (if using LLM-as-judge):**
-```
-[Sample output from your evaluation prompts]
-```
-
-**Code Generation Examples (if used):**
-```python
-# [Show 1-2 examples where AI helped with code]
-```
-
 ---
 
 ## Data & Privacy Statement
